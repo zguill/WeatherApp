@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZGWeather</string>
+    <string-array name="CITY">
+        <item>CHOOSE CITY</item>
+        <item>Seattle</item>
+        <item>New Delhi</item>
+        <item>Honolulu</item>
+        <item>Tokyo</item>
+
+
+    </string-array>
+</resources>
